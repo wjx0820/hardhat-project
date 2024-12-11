@@ -34,3 +34,4 @@ node_modules/.bin/
 # Hardhat specific files
 artifacts/
 cache/
+ignition/deployments/
