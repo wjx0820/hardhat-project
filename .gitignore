@@ -1,0 +1,36 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Common Node.js patterns
+coverage/
+*.env.local
+*.env.development.local
+*.env.test.local
+*.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+.pnp/
+.pnp.js
+
+node_modules/.bin/
+
+# Hardhat specific files
+artifacts/
+cache/
